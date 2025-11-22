@@ -1,0 +1,6 @@
+T0day agenda :
+
+1. GitHub account creation 
+2. repository creation 
+3.cLms_portal, student_portal and student_portal_crud move GitHub account 
+4. diabetic prediction application ( Machine Learning)
